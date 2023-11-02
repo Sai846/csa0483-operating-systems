@@ -29,3 +29,28 @@ step4:-calculate waiting time and turnaroundtime\
 step5:-calculate average waiting time and turnaroundtime\
 step6:-Display process information\
 step7:-End of Algorithm
+4.ccode for scheduling select waiting process with executiontime to execute next\
+Algorithm:-\
+step1:-Input given by user wih n number of process\
+step2:-sort process based on burst time\
+step3:-Initialise variables(current time,completed process)\
+step4:-process scheduling\
+step5:-display output\
+step6:-End of program
+
+5.scheduling program with c select waitingprocess to execute next\
+Algorithm:-\
+step1:-Input(enter number of process)\
+step2:-sort process based on priority(highest to lowest)\
+step3:-Initialize variables(currenttime,completedprocess)\
+step4:-process scheduling\
+step5:-display the output\
+step6:-End of program
+
+6.c program to implement preemptive priority scheduling algorithm\
+Algorithm:-\
+step1:-Input(enter number of process)\
+step2:-Initialise variables\
+step3:-process scheduling\
+step4:-display output\
+step5:-End of program
