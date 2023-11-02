@@ -1,4 +1,4 @@
-# csa0483-operating-systems 
+# CSA0483-operating-systems 
 1.system calls currently running process and parent display same.\
 Algorithm:-\
 step1:Include necessary header files like stdio.h,stdlib.h,unistd.h,sys/types.h\
