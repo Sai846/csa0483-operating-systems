@@ -130,3 +130,115 @@ step3:-Enter directoryname and parent directory\
 step4:-perform operation(create directory,create file,delete file,listfile,exit)\
 step5:-Initialize filesystem\
 step6:-End of program
+
+16.c program for implementing random access file for processing employee details\
+Algorithm:-\
+step1:-Include necessary headerfiles\
+step2:-Define employee structure\
+step3:-open or create random access file\
+step4:-Implement functions for various operations\
+step5:-Implement main menu loop\
+step6:-close file and exit\
+step7:-compile and run program\
+step8:-handle errors and edge cases\
+step9:-test the program\
+step10:-End of program
+
+17.deadlock avoidance concept by simulating bankers algorithm with c\
+ Algorithm:-\
+ step1:-Include necessary headerfiles\
+ step2:-Define constants\
+ step3:-Declare global variables\
+ step4:-Initialise function\
+ step5:-Request resource function\
+ step6:-safety check function\
+ step7:-End of program
+ 18.c program to simulate producer consumer problem using semaphores\
+ Algorithm:-\
+ step1:-Include necessary header files\
+ step2:-Define constants\
+ step3:-Declare global variables\
+ step4:-Initialise semaphores\
+ step5:-Define producer function\
+ step6:-End of program
+ 19.cprogram to implement  synchronization using mutex locks\
+ Algorithm:-\
+ step1:-Include necesssary headerfiles\
+ step2:Declare global variables\
+ step3:-Initialise mutex\
+ step4:-define first thread function\
+ step5:-define second thread function\
+ step6:-handling errors and edge cases\
+ step7:-End of program
+
+20.program to simulate reader-writer problem using semaphores\
+Algorithm:-\
+step1:-Include number of active readers\
+step2:-simulate work\
+step3:-block writers if first reader\
+step4:-unblock writers if lastreader\
+step5:-End of program
+
+21.Algorithm for cprogram to implement worst fit algorithm of memory managment\
+Algorithm:-\
+step1:-Include size of memory block
+step2:-flag to indicate if block is allocated\
+step3:-Initiate memory blocks\
+step4:-allocate memory from process\
+step5:-End of program
+step5:-
+16.c program for implementing random access file for processing employee details\
+Algorithm:-\
+step1:-Include necessary headerfiles\
+step2:-Define employee structure\
+step3:-open or create random access file\
+step4:-Implement functions for various operations\
+step5:-Implement main menu loop\
+step6:-close file and exit\
+step7:-compile and run program\
+step8:-handle errors and edge cases\
+step9:-test the program\
+step10:-End of program
+17.deadlock avoidance concept by simulating bankers algorithm with c\
+ Algorithm:-\
+ step1:-Include necessary headerfiles\
+ step2:-Define constants\
+ step3:-Declare global variables\
+ step4:-Initialise function\
+ step5:-Request resource function\
+ step6:-safety check function\
+ step7:-End of program
+ 18.c program to simulate producer consumer problem using semaphores\
+ Algorithm:-\
+ step1:-Include necessary header files\
+ step2:-Define constants\
+ step3:-Declare global variables\
+ step4:-Initialise semaphores\
+ step5:-Define producer function\
+ step6:-End of program
+ 19.cprogram to implement  synchronization using mutex locks\
+ Algorithm:-\
+ step1:-Include necesssary headerfiles\
+ step2:Declare global variables\
+ step3:-Initialise mutex\
+ step4:-define first thread function\
+ step5:-define second thread function\
+ step6:-handling errors and edge cases\
+ step7:-End of program
+
+20.program to simulate reader-writer problem using semaphores\
+Algorithm:-\
+step1:-Include number of active readers\
+step2:-simulate work\
+step3:-block writers if first reader\
+step4:-unblock writers if lastreader\
+step5:-End of program
+
+21.Algorithm for cprogram to implement worst fit algorithm of memory managment\
+Algorithm:-\
+step1:-Include size of memory block
+step2:-flag to indicate if block is allocated\
+step3:-Initiate memory blocks\
+step4:-allocate memory from process\
+step5:-End of program
+step5:-
